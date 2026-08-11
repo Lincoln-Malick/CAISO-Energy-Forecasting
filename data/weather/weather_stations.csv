@@ -1,0 +1,10 @@
+id,name,country,region,latitude,longitude,elevation,timezone,distance,site
+KCQT0,Los Angeles / Jefferson,US,CA,34.0167,-118.2833,56,America/Los_Angeles,5375.6,la_urban
+KHHR0,Hawthorne / Cypave,US,CA,33.9228,-118.3352,20,America/Los_Angeles,16679.4,la_urban
+72295,Los Angeles Airport,US,CA,33.9333,-118.3833,38,America/Los_Angeles,18450.9,la_urban
+KFCH0,Fresno / West Park,US,CA,36.7321,-119.8203,85,America/Los_Angeles,3025.7,fresno_solar
+72389,Fresno Air Terminal,US,CA,36.7833,-119.7167,101,America/Los_Angeles,8057.8,fresno_solar
+KMAE0,Madera / Notarb,US,CA,36.9886,-120.1124,78,America/Los_Angeles,40190.0,fresno_solar
+NG9G1,Tehachapi Municipal Airport,US,CA,35.135,-118.4392,1220,America/Los_Angeles,935.4,tehachapi_wind
+KMHV0,Mojave / Chaffee,US,CA,35.0586,-118.1506,854,America/Los_Angeles,28346.2,tehachapi_wind
+KWJF0,Lancaster / Antelope Acres,US,CA,34.7411,-118.2186,717,America/Los_Angeles,48290.2,tehachapi_wind

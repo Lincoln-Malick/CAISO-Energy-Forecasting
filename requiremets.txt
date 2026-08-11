@@ -1,2 +1,5 @@
 dotenv
 requests
+pandas
+python-dateutil
+meteostat
