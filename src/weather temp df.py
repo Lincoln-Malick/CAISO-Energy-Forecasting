@@ -74,7 +74,7 @@ weather_matrix = pd.concat(
 print("\nweather_matrix shape:", weather_matrix.shape)
 print(weather_matrix.head(3).iloc[:, :4])
 
-
+weather_matrix.to_csv("data/weather/multi_region_weather_data.csv")
 # Step 7 -- check it actually worked.
 # 14112 rows (not 42336), no NaN from bad alignment, no repeated column names.
 print("\nrows          :", weather_matrix.shape[0], "(want 14112)")
